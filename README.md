@@ -23,4 +23,6 @@ and I also assume you have exported that same list/library to Excel and noticed 
 If you are like me there must be times when you would LOVE to strip out the HTML tags from the direct Query results and display the text in a simpler way (Similar to how an excel export does) for use in some of your PowerQuery/PowerBI reports.<br>
 <br>
 <h1>Well great news!</h1> this is exactly what we accomplish with a "simple" custom M function included in the sample files.<br>
-Feel free to check out my <a href="https://youtu.be/wMhHwZqMuks>YouTube Video</a> for tips.
+Feel free to check out my <a href="https://youtu.be/wMhHwZqMuks">YouTube Video</a> for tips.
+
+
