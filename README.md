@@ -24,3 +24,5 @@ If you are like me there must be times when you would LOVE to strip out the HTML
 <br>
 <h1>Well great news!</h1> this is exactly what we accomplish with a "simple" custom M function included in the sample files.<br>
 Feel free to check out my <a href="https://youtu.be/wMhHwZqMuks">YouTube Video</a> for tips.
+
+
